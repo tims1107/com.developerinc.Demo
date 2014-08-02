@@ -8,6 +8,8 @@ public class DemoNext {
 		System.out.println("New demo");
 		
 		System.out.println("Enhancements");
+		
+		System.out.println("last added");
 
 	}
 
