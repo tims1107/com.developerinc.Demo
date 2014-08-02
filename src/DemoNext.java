@@ -6,6 +6,8 @@ public class DemoNext {
 	 */
 	public static void main(String[] args) {
 		System.out.println("New demo");
+		
+		System.out.println("Enhancements");
 
 	}
 
